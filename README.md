@@ -7,5 +7,5 @@ In this project, I tried to achieve mask of the object using pre-trained COCO mo
 
 The project is an application based on the work that has been done on Mask R-CNN where the model source code was pre-trained on FPN and ResNet101 and also has the pre-trained weights for MS COCO adn the training code for MS COCO. The below URL provides the location of the M R-CNN
 
-URL: https://github.com/matterport/Mask_RCNN/tree/master/mrcnn
+URL: https://github.com/matterport/Mask_RCNN/tree/master/mrcnn/model.py
 
